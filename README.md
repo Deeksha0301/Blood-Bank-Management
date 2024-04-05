@@ -1,4 +1,4 @@
-Blood Bank Management Sysytem
+# Blood Bank Management Sysytem
 
 ## Overview
 The Blood Bank Management System is a web application designed to streamline blood donation and management processes. Leveraging MongoDB, Express.js, React.js, and Node.js (MERN stack), it offers a comprehensive solution for blood banks and donors. 
