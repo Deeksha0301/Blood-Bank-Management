@@ -22,7 +22,7 @@ The primary objective of this project is to enhance the blood donation process b
 ## Getting Started
 1. **Clone the Repository:** Clone the repository to your local machine.
    ```bash
-   git clone [<repository-url>](https://github.com/Deeksha0301/Blood-Bank-Management.git)
+   git clone (https://github.com/Deeksha0301/Blood-Bank-Management.git)
    ```
 2. **Navigate to Client and Server Folders:** 
    ```bash
