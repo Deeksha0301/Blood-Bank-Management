@@ -40,4 +40,4 @@ The primary objective of this project is to enhance the blood donation process b
    ```
 
 ## Live Link
-https://blood-bank-management-ylmt.vercel.app/login
+https://blood-bank-management-8rfk.vercel.app/login
